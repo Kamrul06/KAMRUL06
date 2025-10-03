@@ -188,7 +188,7 @@ Skills: NExt JS / REACT / JavaScript / HTML5 / CSS / Tailwind CSS / BootStrap / 
     align="left" 
     alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamrul06&theme=tokyonight&layout=compact&custom_title=Top Languages&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"  
   />
 </p>
 
