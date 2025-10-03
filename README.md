@@ -19,7 +19,7 @@ Skills: NExt JS / REACT / JavaScript / HTML5 / CSS / Tailwind CSS / BootStrap / 
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" style="filter: invert(20%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(90%) contrast(90%); margin-right: 15px;">
   </a>
 
-  <a href="https://www.linkedin.com/in/kamrul-hassan-4889aa310/" target="_blank" title="LinkedIn">
+  <a href="[https://www.linkedin.com/in/kamrul-hassan-4889aa310/](https://www.linkedin.com/in/kamrul-hassan-4889aa310/)" target="_blank" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" style="filter: invert(26%) sepia(94%) saturate(1450%) hue-rotate(184deg) brightness(96%) contrast(101%); margin-right: 15px;">
   </a>
 
