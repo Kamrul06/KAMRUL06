@@ -1,4 +1,4 @@
- ### Hi there 👋, my name is Kamrul
+ ### Hi im 👋 Kamrul
  
 ![I am GitHub  Beginer ]( https://pbs.twimg.com/profile_banners/1377138431982067719/1725550005/600x200)
 
@@ -28,5 +28,5 @@ Skills: NExt JS / REACT / JavaScript / HTML5 / CSS / Tailwind CSS / BootStrap / 
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Kamrul06/contributions?format=svg&private=false)  
 
-![GitHub metrics](https://metrics.lecoq.io/Kamrul06)  
+ 
 
