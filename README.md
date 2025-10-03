@@ -14,9 +14,27 @@ Skills: NExt JS / REACT / JavaScript / HTML5 / CSS / Tailwind CSS / BootStrap / 
                           mail: kh5320543@gmail.com 
  
  
+<p>
+  <a href="https://github.com/Kamrul06" target="_blank" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" style="filter: invert(20%) sepia(0%) saturate(0%) hue-rotate(180deg) brightness(90%) contrast(90%); margin-right: 15px;">
+  </a>
 
+  <a href="https://www.linkedin.com/in/kamrul-hassan-4889aa310/" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" style="filter: invert(26%) sepia(94%) saturate(1450%) hue-rotate(184deg) brightness(96%) contrast(101%); margin-right: 15px;">
+  </a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kamrul06)            [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kamrul-hassan-4889aa310//)           [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/kamhassn)          [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/kamrul5199//)         [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/KamrulH96159280)  
+  <a href="https://www.facebook.com/kamhassn" target="_blank" title="Facebook">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="40" style="filter: invert(36%) sepia(93%) saturate(747%) hue-rotate(187deg) brightness(95%) contrast(90%); margin-right: 15px;">
+  </a>
+
+  <a href="https://www.instagram.com/kamrul5199/" target="_blank" title="Instagram">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="40" style="filter: invert(29%) sepia(96%) saturate(601%) hue-rotate(316deg) brightness(93%) contrast(90%); margin-right: 15px;">
+  </a>
+
+  <a href="https://x.com/KamrulH96159280" target="_blank" title="Twitter / X">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="40" style="filter: invert(42%) sepia(92%) saturate(749%) hue-rotate(178deg) brightness(95%) contrast(91%); margin-right: 15px;">
+  </a>
+</p>
 
  
 
